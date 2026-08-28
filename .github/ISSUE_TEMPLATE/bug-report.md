@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report unexpected behavior
- title: ""
+title: ""
 labels: ""
 assignees: ""
 ---
